@@ -1,0 +1,2 @@
+include ':app', ':study_run', ':r2lib'
+rootProject.name='MyDagger2'
