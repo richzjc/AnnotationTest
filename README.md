@@ -1,5 +1,3 @@
-# Dagger2
-对依赖注入的框架Dagger2进行学习， 达到解耦的目的
+# AnnotationTest
 
-
-[简书地址](https://www.jianshu.com/p/02abddb330a4)
+通过Apt技术手写实现注入事件， 注入控件等
